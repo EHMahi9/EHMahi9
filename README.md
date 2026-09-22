@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔵🔴 Ebnul Hasan Mahi 🔵🔴
-### 💻 Software Engineering Developer | Tech Entrepreneur
+### 💻 Software Developer | Tech Entrepreneur
 
 [![Typing SVG](https://demolab.com)](https://git.io)
 
