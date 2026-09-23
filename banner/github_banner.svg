@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <!-- Dark gradient background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0e27;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#111638;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0d1130;stop-opacity:1" />
+    </linearGradient>
+    <!-- Blue-red accent gradient (Barça-inspired) -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a4fd6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#6b2fa0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#c41e3a;stop-opacity:1" />
+    </linearGradient>
+    <!-- Glow filter -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Subtle grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a2045" stroke-width="0.5"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- Grid overlay -->
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.4"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="297" width="1200" height="3" fill="url(#accent)"/>
+
+  <!-- Decorative code brackets - left side -->
+  <text x="60" y="90" font-family="'Courier New', monospace" font-size="80" fill="#1a4fd6" opacity="0.15" font-weight="bold">{</text>
+  <text x="40" y="170" font-family="'Courier New', monospace" font-size="80" fill="#1a4fd6" opacity="0.12" font-weight="bold">&lt;/&gt;</text>
+  <text x="70" y="250" font-family="'Courier New', monospace" font-size="80" fill="#1a4fd6" opacity="0.15" font-weight="bold">}</text>
+
+  <!-- Decorative code elements - right side -->
+  <text x="1020" y="80" font-family="'Courier New', monospace" font-size="14" fill="#c41e3a" opacity="0.2">const dev = new Developer();</text>
+  <text x="1020" y="105" font-family="'Courier New', monospace" font-size="14" fill="#4a90d9" opacity="0.2">dev.build('amazing things');</text>
+  <text x="1020" y="130" font-family="'Courier New', monospace" font-size="14" fill="#c41e3a" opacity="0.2">while(alive) { learn(); }</text>
+  <text x="1050" y="220" font-family="'Courier New', monospace" font-size="14" fill="#4a90d9" opacity="0.2">// keep building</text>
+  <text x="1050" y="245" font-family="'Courier New', monospace" font-size="14" fill="#c41e3a" opacity="0.2">// keep learning</text>
+
+  <!-- Floating dots / particles -->
+  <circle cx="200" cy="50" r="2" fill="#4a90d9" opacity="0.3"/>
+  <circle cx="350" cy="260" r="1.5" fill="#c41e3a" opacity="0.3"/>
+  <circle cx="500" cy="40" r="1" fill="#4a90d9" opacity="0.4"/>
+  <circle cx="700" cy="270" r="2" fill="#c41e3a" opacity="0.25"/>
+  <circle cx="900" cy="55" r="1.5" fill="#4a90d9" opacity="0.35"/>
+  <circle cx="150" cy="200" r="1" fill="#c41e3a" opacity="0.3"/>
+  <circle cx="850" cy="200" r="1.5" fill="#4a90d9" opacity="0.2"/>
+  <circle cx="1100" cy="170" r="2" fill="#c41e3a" opacity="0.2"/>
+
+  <!-- Connecting lines (subtle network/tech feel) -->
+  <line x1="200" y1="50" x2="350" y2="260" stroke="#4a90d9" stroke-width="0.3" opacity="0.15"/>
+  <line x1="500" y1="40" x2="700" y2="270" stroke="#c41e3a" stroke-width="0.3" opacity="0.15"/>
+  <line x1="900" y1="55" x2="850" y2="200" stroke="#4a90d9" stroke-width="0.3" opacity="0.15"/>
+
+  <!-- Main name text -->
+  <text x="600" y="125" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="48" font-weight="700" fill="#ffffff" filter="url(#glow)" letter-spacing="3">
+    EBNUL HASAN MAHI
+  </text>
+
+  <!-- Accent underline below name -->
+  <rect x="350" y="140" width="500" height="2" fill="url(#accent)" rx="1"/>
+
+  <!-- Subtitle -->
+  <text x="600" y="180" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" fill="#8892b0" font-weight="400" letter-spacing="5">
+    SOFTWARE DEVELOPER  |  TECH ENTREPRENEUR
+  </text>
+
+  <!-- Small Barça-inspired accent stripes (abstract, not logo) -->
+  <rect x="540" y="205" width="24" height="4" rx="2" fill="#1a4fd6" opacity="0.6"/>
+  <rect x="570" y="205" width="24" height="4" rx="2" fill="#c41e3a" opacity="0.6"/>
+  <rect x="600" y="205" width="24" height="4" rx="2" fill="#1a4fd6" opacity="0.6"/>
+  <rect x="630" y="205" width="24" height="4" rx="2" fill="#c41e3a" opacity="0.6"/>
+
+  <!-- Terminal cursor blink indicator -->
+  <rect x="660" y="205" width="2" height="4" fill="#4a90d9" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+</svg>
