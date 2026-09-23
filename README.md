@@ -212,12 +212,28 @@
 <br/>
 
 ### 📈 GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=EHMahi9&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHMahi9&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
 
-### 🔥 Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=EHMahi9&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=EHMahi9&theme=swift&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EHMahi9&show_icons=true&bg_color=0D1117&title_color=2B90FF&text_color=F0F6FC&icon_color=E53935&border_color=1a2855&include_all_commits=true&count_private=true&rank_icon=github" alt="EHMahi9 GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHMahi9&layout=compact&bg_color=0D1117&title_color=2B90FF&text_color=F0F6FC&icon_color=E53935&border_color=1a2855&langs_count=8" alt="EHMahi9 Top Languages" />
+</div>
+
+<br/>
+
+### 🔥 GitHub Streak:
+
+<div align="center">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=EHMahi9&background=0D1117&stroke=1a2855&ring=2B90FF&fire=E53935&currStreakNum=F0F6FC&sideNums=F0F6FC&currStreakLabel=2B90FF&sideLabels=58A6FF&dates=8B949E&border=1a2855" alt="EHMahi9 GitHub Streak" />
+</div>
+
+<br/>
+
+### 📊 Contribution Stats:
+
+<div align="center">
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=EHMahi9&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0D1117&title_color=2B90FF&text_color=F0F6FC&border_color=1a2855" alt="EHMahi9 Contributor Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EHMahi9&show_icons=true&bg_color=0D1117&title_color=2B90FF&text_color=F0F6FC&icon_color=E53935&border_color=1a2855&show=reviews,discussions_started,prs_merged&hide=contribs&rank_icon=percentile" alt="EHMahi9 Activity Stats" />
+</div>
 
 <br/>
 
@@ -241,7 +257,7 @@
 
 <div align="center">
 
-`CODE → BUILD → LEARN → IMPROVE → REPEAT`
+<img src="./assets/career-pipeline.svg" alt="Code → Build → Learn → Improve → Repeat" width="700"/>
 
 </div>
 
@@ -251,11 +267,11 @@
 <!--       PROFILE VIEWS       -->
 <!-- ========================= -->
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=EHMahi9&label=Profile%20Views&color=0e75b6&style=flat" alt="EHMahi9 Profile Views" />
-</p>
-
 <div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=EHMahi9&label=Profile%20Views&color=2B90FF&style=for-the-badge&labelColor=0D1117" alt="EHMahi9 Profile Views" />
+
+<br/><br/>
 
 ### ⚡ Keep Building. Keep Learning. Keep Creating. ⚡
 
