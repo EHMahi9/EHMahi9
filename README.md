@@ -3,8 +3,12 @@
 # 🔵🔴 Ebnul Hasan Mahi 🔵🔴
 ### 💻 Software Developer | Tech Entrepreneur
 
-<!-- ১. ভেরিফাইড অ্যাক্টিভ টাইপিং অ্যানিমেশন উইজেট -->
-[![Typing SVG](https://demolab.com)](https://git.io)
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Software+Developer;Tech+Entrepreneur;React.js+%7C+Next.js+%7C+TypeScript"
+    alt="Typing SVG"
+  />
+</a>
 
 </div>
 
@@ -22,19 +26,34 @@
 
 ---
 
-### 📊 GitHub Stats & Live Activity (Dynamically Updated)
+### 📊 GitHub Stats & Live Activity
 
 <div align="center">
-  <!-- ২. ভেরিফাইড স্টেবল আলফা সার্ভার লিঙ্ক (যা বর্তমানে অনলাইন আছে) -->
-  <img src="https://vercel.app" alt="Mahi's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=EHMahi9&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="Mahi's GitHub Stats"
+  width="48%"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EHMahi9&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+  width="48%"
+/>
+
 </div>
 
 <br>
 
 <div align="center">
-  <!-- ৩. সচল ডেমোল্যাব স্ট্রিক এপিআই -->
-  <img src="https://demolab.com" alt="GitHub Streak" width="97%" />
+
+<img
+  src="https://streak-stats.demolab.com?user=EHMahi9&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+  width="97%"
+/>
+
 </div>
 
 ---
@@ -43,12 +62,29 @@
 
 <div align="center">
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Gmail](https://shields.io)](mailto:vaibongo20@gmail.com)
+<a href="https://www.linkedin.com/in/ebnul-hasan-mahi-580b07395">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:vaibongo20@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
 
 </div>
 
-<p align="right">
-  <!-- ৪. স্টেবল ভিজিটর কাউন্টার -->
-  <img src="https://laobi.icu" alt="Profile Visitors" />
-</p>
+<br>
+
+<div align="center">
+
+<img
+  src="https://komarev.com/ghpvc/?username=EHMahi9&label=Profile+Views&color=blue&style=flat-square"
+  alt="Profile Visitors"
+/>
+
+</div>
