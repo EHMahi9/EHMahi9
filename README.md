@@ -3,6 +3,7 @@
 # 🔵🔴 Ebnul Hasan Mahi 🔵🔴
 ### 💻 Software Developer | Tech Entrepreneur
 
+<!-- ১. ক্যাশ-বাস্টিং সহ টাইপিং অ্যানিমেশন -->
 [![Typing SVG](https://demolab.com)](https://git.io)
 
 </div>
@@ -24,6 +25,7 @@
 ### 📊 GitHub Stats & Live Activity (Dynamically Updated)
 
 <div align="center">
+  <!-- ২. অল্টারনেটিভ হাই-স্পিড এপিআই এবং ক্যাশ বাস্টিং (?v=2) -->
   <img src="https://vercel.app" alt="Mahi's GitHub Stats" width="48%" />
   <img src="https://vercel.app" alt="Top Languages" width="48%" />
 </div>
@@ -31,7 +33,8 @@
 <br>
 
 <div align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%" />
+  <!-- ৩. অল্টারনেটিভ ডেমোল্যাব স্ট্রিক এপিআই এবং ক্যাশ বাস্টিং (?v=2) -->
+  <img src="https://demolab.com" alt="GitHub Streak" width="97%" />
 </div>
 
 ---
@@ -46,5 +49,6 @@
 </div>
 
 <p align="right">
+  <!-- ৪. ভিজিটর কাউন্টার ক্যাশ বাস্টিং -->
   <img src="https://laobi.icu" alt="Profile Visitors" />
 </p>
