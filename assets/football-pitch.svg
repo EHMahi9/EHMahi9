@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <defs>
+    <linearGradient id="pitchBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#111827;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a4fd6;stop-opacity:0"/>
+      <stop offset="20%" style="stop-color:#1a4fd6;stop-opacity:0.5"/>
+      <stop offset="80%" style="stop-color:#E53935;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#E53935;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="60" fill="url(#pitchBg)" rx="8"/>
+
+  <!-- Top line accent -->
+  <rect x="100" y="0" width="600" height="1" fill="url(#accentLine)" opacity="0.4"/>
+
+  <!-- Pitch center circle (small) -->
+  <circle cx="400" cy="30" r="18" fill="none" stroke="#1a2855" stroke-width="0.6" opacity="0.3"/>
+  <circle cx="400" cy="30" r="1.5" fill="#2B90FF" opacity="0.2"/>
+
+  <!-- Half-way marks -->
+  <line x1="50" y1="30" x2="382" y2="30" stroke="#1a2855" stroke-width="0.4" opacity="0.2" stroke-dasharray="3 5"/>
+  <line x1="418" y1="30" x2="750" y2="30" stroke="#1a2855" stroke-width="0.4" opacity="0.2" stroke-dasharray="3 5"/>
+
+  <!-- Left goal area -->
+  <rect x="20" y="15" width="30" height="30" rx="2" fill="none" stroke="#1a2855" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Right goal area -->
+  <rect x="750" y="15" width="30" height="30" rx="2" fill="none" stroke="#1a2855" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Corner arcs -->
+  <path d="M 20 8 Q 8 8 8 20" fill="none" stroke="#1a2855" stroke-width="0.4" opacity="0.15"/>
+  <path d="M 780 8 Q 792 8 792 20" fill="none" stroke="#1a2855" stroke-width="0.4" opacity="0.15"/>
+  <path d="M 20 52 Q 8 52 8 40" fill="none" stroke="#1a2855" stroke-width="0.4" opacity="0.15"/>
+  <path d="M 780 52 Q 792 52 792 40" fill="none" stroke="#1a2855" stroke-width="0.4" opacity="0.15"/>
+
+  <!-- Outer pitch border -->
+  <rect x="8" y="5" width="784" height="50" rx="3" fill="none" stroke="#1a2855" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Animated ball -->
+  <circle r="4" fill="#F0F6FC" opacity="0.3">
+    <animateMotion dur="8s" repeatCount="indefinite" path="M 60 30 Q 200 15 400 30 Q 600 45 740 30 Q 600 15 400 30 Q 200 45 60 30"/>
+  </circle>
+
+  <!-- Bottom line accent -->
+  <rect x="100" y="59" width="600" height="1" fill="url(#accentLine)" opacity="0.4"/>
+</svg>

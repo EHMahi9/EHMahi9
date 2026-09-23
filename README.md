@@ -2,7 +2,7 @@
 <!--        PROFILE BANNER     -->
 <!-- ========================= -->
 
-<img src="./banner/github_banner.svg" alt="Ebnul Hasan Mahi">
+<img src="./banner/github_banner.svg" alt="Ebnul Hasan Mahi" width="100%">
 
 <br/>
 
@@ -14,7 +14,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Ebnul Hasan Mahi</h1></summary>
     <!-- typing animation -->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Software+Developer;Tech+Entrepreneur;React.js+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Python+%7C+Java;Always+Learning+%26+Building" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Software+Developer;Tech+Entrepreneur;React.js+%7C+Next.js+%7C+TypeScript;JavaScript+%7C+Python+%7C+Java;Building.+Learning.+Improving.;Football+%E2%80%A2+Code+%E2%80%A2+Creativity" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -24,13 +24,90 @@
 <!--          ABOUT ME         -->
 <!-- ========================= -->
 
-- 👋 Hi, I'm **[@EHMahi9](https://github.com/EHMahi9)**
-- 🖥️ I build interactive and high-performance frontend applications using **React.js, Next.js, and TypeScript**.
+- 👋 Hi, I'm **[@EHMahi9](https://github.com/EHMahi9)** — a software developer who treats every project like a match worth winning.
+- 🖥️ I build interactive, high-performance frontend applications using **React.js, Next.js, and TypeScript**.
 - ⚙️ I work with **JavaScript, Python, Java, and C** for programming, problem solving, and application logic.
 - 🎨 I enjoy crafting **clean interfaces, smooth user experiences, dark-mode designs, and interactive UI animations**.
-- 📚 I'm continuously learning new concepts and improving my development skills through practical projects.
+- 📚 I'm continuously learning and improving through practical projects — the best way to grow is to build.
 - 🚀 My long-term vision is to grow as a **Software Developer and Tech Entrepreneur**.
-- ⚽ *Més que un club* — bringing the passion and mentality of **FC Barcelona** into every project.
+- ⚽ *Més que un club* — code is what I build with, football is what keeps me driven.
+
+<br/>
+
+<!-- ========================= -->
+<!--     CURRENTLY BUILDING    -->
+<!-- ========================= -->
+
+## 🚀 CURRENTLY BUILDING
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**⚛️ Frontend**<br/>
+<sub>React · Next.js · TypeScript</sub>
+
+</td>
+<td align="center" width="25%">
+
+**🧠 Problem Solving**<br/>
+<sub>Algorithms · Fundamentals</sub>
+
+</td>
+<td align="center" width="25%">
+
+**⚽ Football Tech**<br/>
+<sub>Analytics · Scouting Ideas</sub>
+
+</td>
+<td align="center" width="25%">
+
+**💡 Entrepreneurship**<br/>
+<sub>Building Useful Products</sub>
+
+</td>
+</tr>
+</table>
+
+<p align="center"><sub>Exploring: AI · Automation · Modern Web · Football Technology</sub></p>
+
+<br/>
+
+<!-- ========================= -->
+<!--      MY PLAYING STYLE     -->
+<!-- ========================= -->
+
+## ⚽ MY PLAYING STYLE
+
+<table>
+<tr>
+<td width="50%">
+
+| Development | Football Analogy |
+|:---|:---|
+| Frontend | Ball Control |
+| TypeScript | Tactical Discipline |
+| Problem Solving | Game Reading |
+| UI/UX | Creativity |
+| Consistency | Stamina |
+| Learning | Training |
+
+</td>
+<td width="50%" align="center">
+
+`TRAIN → PLAY → ANALYZE → IMPROVE`
+
+<br/>
+
+<img src="./assets/football-motion.svg" alt="Football" width="300"/>
+
+<br/>
+
+<sub><i>The pitch is my IDE. Every commit is a pass. Ship it like a goal.</i></sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -85,19 +162,19 @@
 
 ## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"><b> TECHNOLOGY STACK:</b>
 
-### Languages:
+### 💻 Languages:
 [![Languages](https://skillicons.dev/icons?i=javascript,typescript,python,java,c,html,css)](https://github.com/EHMahi9)
 
-### Frontend Frameworks & Libraries:
+### 🎨 Frontend:
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://github.com/EHMahi9)
 
-### Backend & Runtime:
+### ⚙️ Backend & Runtime:
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/EHMahi9)
 
-### Database:
+### 🗄️ Database:
 [![Database](https://skillicons.dev/icons?i=mysql,mongodb,postgres)](https://github.com/EHMahi9)
 
-### Tools & Technologies:
+### 🔧 Tools & Technologies:
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux)](https://github.com/EHMahi9)
 
 <br/>
@@ -108,13 +185,29 @@
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### 🐍 GitHub Contributions:
+### ⚽ GitHub Contributions:
+
+<div align="center">
+
+<img src="./assets/football-pitch.svg" alt="Football Pitch" width="100%"/>
+
+</div>
+
+<p align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EHMahi9/EHMahi9/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EHMahi9/EHMahi9/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/EHMahi9/EHMahi9/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</p>
+
+<div align="center">
+
+<img src="./assets/football-motion.svg" alt="Football" width="300"/>
+
+</div>
 
 <br/>
 
@@ -129,18 +222,28 @@
 <br/>
 
 <!-- ========================= -->
-<!--        RANDOM QUOTE       -->
+<!--     QURANIC REFLECTION    -->
 <!-- ========================= -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"><b> RANDOM DEV QUOTE:</b>
+## 🌙 QURANIC REFLECTION
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" alt="Random Developer Quote" />
+<img src="./assets/quran-reflection.svg" alt="Surah Ash-Sharh 94:5-6 — For indeed, with hardship comes ease." width="600"/>
 
 </div>
 
 <br/>
+
+<!-- ========================= -->
+<!--       CAREER PITCH        -->
+<!-- ========================= -->
+
+<div align="center">
+
+`CODE → BUILD → LEARN → IMPROVE → REPEAT`
+
+</div>
 
 ---
 
