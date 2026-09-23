@@ -62,29 +62,41 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ebnul-hasan-mahi-580b07395">
+<a href="https://www.linkedin.com/in/ebnul-hasan-mahi/">
+
+<img
+src="./assets/linkedin-cover.jpg"
+alt="Ebnul Hasan Mahi LinkedIn Cover"
+width="100%"
+/>
+
+<br><br>
+
+<img
+src="./assets/linkedin-profile.jpg"
+alt="Ebnul Hasan Mahi"
+width="150"
+height="150"
+style="border-radius: 50%;"
+/>
+
+</a>
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/ebnul-hasan-mahi/">
   <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="Connect with me on LinkedIn"
   />
 </a>
 
 <a href="mailto:vaibongo20@gmail.com">
   <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
+    src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email me"
   />
 </a>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=EHMahi9&label=Profile+Views&color=blue&style=flat-square"
-  alt="Profile Visitors"
-/>
-
-</div>
