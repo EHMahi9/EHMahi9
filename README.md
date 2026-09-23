@@ -5,7 +5,7 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Software+Developer;Tech+Entrepreneur;React.js+%7C+Next.js+%7C+TypeScript"
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Software+Developer;Tech+Entrepreneur;React.js+%7C+Next.js+%7C+TypeScript;Building+Innovative+Software"
     alt="Typing SVG"
   />
 </a>
@@ -65,19 +65,22 @@
 <a href="https://www.linkedin.com/in/ebnul-hasan-mahi/">
 
 <img
-src="./assets/linkedin-cover.jpg"
-alt="Ebnul Hasan Mahi LinkedIn Cover"
-width="100%"
+  src="./assets/linkedin-cover.jpg"
+  alt="Ebnul Hasan Mahi LinkedIn Cover"
+  width="100%"
 />
+
+</a>
 
 <br><br>
 
+<a href="https://www.linkedin.com/in/ebnul-hasan-mahi/">
+
 <img
-src="./assets/linkedin-profile.jpg"
-alt="Ebnul Hasan Mahi"
-width="150"
-height="150"
-style="border-radius: 50%;"
+  src="./assets/linkedin-profile.jpg"
+  alt="Ebnul Hasan Mahi"
+  width="150"
+  height="150"
 />
 
 </a>
@@ -87,16 +90,36 @@ style="border-radius: 50%;"
 <a href="https://www.linkedin.com/in/ebnul-hasan-mahi/">
   <img
     src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="Connect with me on LinkedIn"
+    alt="LinkedIn"
   />
 </a>
 
 <a href="mailto:vaibongo20@gmail.com">
   <img
     src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email me"
+    alt="Gmail"
   />
 </a>
 
 </div>
 
+---
+
+<div align="center">
+
+### 👀 Profile Visitors
+
+<img
+  src="https://komarev.com/ghpvc/?username=EHMahi9&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+  alt="Profile Views"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Keep Building. Keep Learning. Keep Creating. ⚡
+
+</div>
